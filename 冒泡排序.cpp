@@ -1,36 +1,36 @@
-//# include <stdio.h>
-//# include <stdlib.h>
-//
-//void sort(int * a, int len)
-//{
-//	int i, j, temp;
-//	for(i=0; i<len-1; i++)
-//	{
-//		for(j=0; j<len-1-i; j++)
-//		{
-//			if(a[j] > a[j+1]) // >±íÊ¾ÉıĞò£»<±íÊ¾½µĞò
-//			{
-//				temp = a[j];
-//				a[j] = a[j+1];
-//				a[j+1] = temp;
-//			}
-//		}
-//	}
-//}
-//
-//int main(void)
-//{
-//	int a[6] = {10, 2, 8, -8, 11, 0};
-//	int i = 0;
-//
-//	sort(a, 6);
-//
-//	for(i=0; i<6; i++)
-//	{
-//		printf("%d\n", a[i]);
-//	}
-//	printf("\n");
-//
-//	system("pause");
-//	return 0;
-//}
+# include <stdio.h>
+# include <stdlib.h>
+
+void sort(int * a, int len)
+{
+	int i, j, temp;
+	for(i=0; i<len-1; i++)
+	{
+		for(j=0; j<len-1-i; j++)
+		{
+			if(a[j] > a[j+1])  >Â±Ã­ÃŠÂ¾Ã‰Ã½ÃÃ²Â£Â»<Â±Ã­ÃŠÂ¾Â½ÂµÃÃ²
+			{
+				temp = a[j];
+				a[j] = a[j+1];
+				a[j+1] = temp;
+			}
+		}
+	}
+}
+
+int main(void)
+{
+	int a[6] = {10, 2, 8, -8, 11, 0};
+	int i = 0;
+
+	sort(a, 6);
+
+	for(i=0; i<6; i++)
+	{
+		printf("%d\n", a[i]);
+	}
+	printf("\n");
+
+	system("pause");
+	return 0;
+}
