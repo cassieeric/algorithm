@@ -918,4 +918,3 @@ def bls_train_inputenhance(train_x,train_y,train_xf,train_yf,test_x,test_y,s,C,N
         print('The Total Testing Time is : ',Testing_time, ' seconds' );
         print('Testing Accuracy is : ', TestingAccuracy * 100, ' %' );
     return test_err,test_time,train_err,train_time
-
