@@ -3,7 +3,8 @@
 
 void sort(int * a, int len)
 {
-	int i, j, temp;
+	int i, 
+	int j, temp;
 	for(i=0; i<len-1; i++)
 	{
 		for(j=0; j<len-1-i; j++)
@@ -17,6 +18,7 @@ void sort(int * a, int len)
 		}
 	}
 }
+
 
 int main(void)
 {
