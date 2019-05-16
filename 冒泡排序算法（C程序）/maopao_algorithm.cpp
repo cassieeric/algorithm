@@ -3,7 +3,7 @@
 
 void sort(int * a, int len)
 {
-	int i, 
+	int i;
 	int j, 
 	int temp,
 	
