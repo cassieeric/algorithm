@@ -5,7 +5,7 @@ void sort(int * a, int len)
 {
 	int i;
 	int j; 
-	int temp,
+	int temp;
 	
 	for(i=0; i<len-1; i++)
 	{
