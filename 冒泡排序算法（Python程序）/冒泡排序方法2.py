@@ -11,3 +11,13 @@ if __name__ == '__main__':
     print(list)
     bubble_sort(list)
     print(list)
+
+'''
+第一次内层循环的结果就是找到最大的值
+
+第二次内层循环的结果就是找到次大的值,本次将忽略最后一个元素的比较
+
+第二次内层循环的结果就是找到第三大的值，本次讲忽略倒数第二个元素和最后一个元素的比较
+
+参考链接：https://www.cnblogs.com/xiaxiaoxu/p/9529028.html
+'''
