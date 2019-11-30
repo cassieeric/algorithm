@@ -1,5 +1,5 @@
 # Introduction
-##Broad Learning System
+## Broad Learning System
 
 An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture
 https://ieeexplore.ieee.org/document/7987745/
