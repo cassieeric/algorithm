@@ -4,6 +4,7 @@
 Broad Learning System was first published on the IEEE transaction journal: An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture
 https://ieeexplore.ieee.org/document/7987745/
 
+
 This folder is about Broad Learning System which is proposed by C.L. Philipchen, Macau University, China.
 「Broad Learning System: An Eﬀective and Eﬃcient Incremental Learning System Without the Need for Deep Architecture」is published on IEEE Transactions on Neural Networks and Learning Systems, Vol. 29, Issue 1, 2018.
 
@@ -14,3 +15,4 @@ Published in: IEEE Transactions on Neural Networks and Learning Systems ( Volume
 # Source
 
 http://www.broadlearning.ai/broad-learning-system-an-effective-and-efficient-incremental-learning-system-without-the-need-for-deep-architecture/
+
