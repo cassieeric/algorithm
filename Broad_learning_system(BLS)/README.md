@@ -14,6 +14,5 @@ Deep structure and learning suffer from a time-consuming training process becaus
 Published in: IEEE Transactions on Neural Networks and Learning Systems ( Volume: 29, Issue: 1, Jan. 2018 )
 
 # Source
-
 http://www.broadlearning.ai/broad-learning-system-an-effective-and-efficient-incremental-learning-system-without-the-need-for-deep-architecture/
 
