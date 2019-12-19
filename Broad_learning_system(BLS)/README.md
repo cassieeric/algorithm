@@ -16,4 +16,3 @@ Published in: IEEE Transactions on Neural Networks and Learning Systems ( Volume
 
 # Source
 http://www.broadlearning.ai/broad-learning-system-an-effective-and-efficient-incremental-learning-system-without-the-need-for-deep-architecture/
-
